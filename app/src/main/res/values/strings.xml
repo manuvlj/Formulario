@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="Registro" />
+    <string name="registro">Registro</string>
+    <string name="nombre">Nombre</string>
+    <string name="correo_electronico">Correo Electrónico</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="repetir_contrasena">Repetir Contraseña</string>
+    <string name="sexo">Sexo</string>
+    <string name="femenino">Femenino</string>
+    <string name="masculino">Masculino</string>
+    <string name="pasatiempos">Pasatiempos</string>
+    <string name="videojuegos">Jugar Videojuegos</string>
+    <string name="peliculas_series">Películas/Series</string>
+    <string name="leer">Leer</string>
+    <string name="viajar">Viajar</string>
+    <string name="fecha_nacimiento">Fecha de Nacimiento</string>
+    <string name="escoger_fecha">Elige una fecha</string>
+    <string name="seleccionar_fecha">Seleccionar</string>
+    <string name="datos">Datos</string>
+    <string name="respuesta">Nombre: %s \nCorreo %s \nGenero: %s \nPasatiempos: %s \nLugar de Nacimiento: %s</string>
+    <string name="lugar_nacimiento">Lugar de Nacimiento</string>
+    <string name="guardar">Guardar</string>
+
+    <string-array name="ciudad_nacimiento">
+        <item>Seleccione una ciudad</item>
+        <item>Medellín</item>
+        <item>Bogotá</item>
+        <item>Barranquilla</item>
+        <item>Bucaramanga</item>
+    </string-array>
+</resources>
